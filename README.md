@@ -17,7 +17,7 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/willyangzzz/)
 
 -------------
 **Key tech skills**
-Markup: - REST APIs
+- REST APIs
         - Test-Driven Development
         - Relational Databases
         - Node.js
