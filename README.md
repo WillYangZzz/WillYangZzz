@@ -13,7 +13,12 @@ I'm excited about the endless possibilities in the tech world and I'm eager to b
 I plan to redo the projects and challenges I did during the bootcamp.
 
 📫 **How to reach me**
+
 Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/willyangzzz/)
+
+📜 Want to know more?
+<a href="https://github.com/WillYangZzz/WillYangZzz/blob/main/Will%20Yang%20CV.pdf" download>Here's my CV!</a>
+
 
 -------------
 **Key tech skills**
