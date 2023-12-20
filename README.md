@@ -8,15 +8,15 @@ I'm excited about the endless possibilities in the tech world and I'm eager to b
 
 -------------
 
-🔭 ###I’m currently working on
+###🔭 I’m currently working on
 
 I plan to redo the projects and challenges I did during the bootcamp.
 
-📫 ###How to reach me
+📫 How to reach me
 Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/willyangzzz/)
 
 -------------
-###Key tech skills
+Key tech skills
 -REST APIs
 -Test-Driven Development
 -Relational Databases
@@ -37,7 +37,7 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/willyangzzz/)
 -Sqlite3
 -Multer
 -Auth0
-###Key human skills
+Key human skills
 -Public Speaking
 -Project Management
 -Presentation and Demo Experience
@@ -45,7 +45,7 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/willyangzzz/)
 -Agile Methodologies
 -Team Collaboration
 -Non-Violent Communication Strategies (NVC)
-###What I'm aiming to learn next:
+What I'm aiming to learn next:
 ASP.NET Core
 C#
 
