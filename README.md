@@ -18,39 +18,39 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/willyangzzz/)
 -------------
 **Key tech skills**
 - REST APIs
-        - Test-Driven Development
-        - Relational Databases
-        - Node.js
--Knex
--JavaScript
--HTML5
--Cascading Style Sheets (CSS)
--Tailwind CSS
--Express.js
--Superagent
--Vitest
--GitHub
--Database Queries
--React
--TypeScript
--ReactQuery
--Sqlite3
--Multer
--Auth0
+- Test-Driven Development
+- Relational Databases
+- Node.js
+- Knex
+- JavaScript
+- HTML5
+- Cascading Style Sheets (CSS)
+- Tailwind CSS
+- Express.js
+- Superagent
+- Vitest
+- GitHub
+- Database Queries
+- React
+- TypeScript
+- ReactQuery
+- Sqlite3
+- Multer
+- Auth0
 
 
 **Key human skills**
--Public Speaking
--Project Management
--Presentation and Demo Experience
--Active Listening
--Agile Methodologies
--Team Collaboration
--Non-Violent Communication Strategies (NVC)
+- Public Speaking
+- Project Management
+- Presentation and Demo Experience
+- Active Listening
+- Agile Methodologies
+- Team Collaboration
+- Non-Violent Communication Strategies (NVC)
 
 **What I'm aiming to learn next:**
-ASP.NET Core
-C#
+- ASP.NET Core
+- C#
 
 
 
